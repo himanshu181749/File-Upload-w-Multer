@@ -1,0 +1,17 @@
+{
+  "name": "json-server-starter",
+  "private": true,
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "http-server": "^0.12.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
